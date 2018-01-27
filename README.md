@@ -3,7 +3,7 @@
 #### Neural network created,trained,optimised.
 #### CNN used(convulational neural network).
 #### all the help provided in markups.
-#### data is uploaded .
+#### data is on https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz .
 #### Tensorflow used- prettytensor.
 #### numpy,sklearn,tensorflow,prettytensor,datetime,time,math,os libraries used.
 #### python 3 used.
